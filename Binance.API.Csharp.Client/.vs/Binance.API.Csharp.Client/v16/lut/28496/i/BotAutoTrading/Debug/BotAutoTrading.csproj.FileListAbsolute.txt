@@ -1,0 +1,8 @@
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\b\BotAutoTrading\bin\Debug\BotAutoTrading.exe.config
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\b\BotAutoTrading\bin\Debug\BotAutoTrading.exe
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\BotAutoTrading\Debug\BotAutoTrading.BotAutoMain.resources
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\BotAutoTrading\Debug\BotAutoTrading.Properties.Resources.resources
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\BotAutoTrading\Debug\BotAutoTrading.csproj.GenerateResource.cache
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\BotAutoTrading\Debug\BotAutoTrading.csproj.CoreCompileInputs.cache
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\BotAutoTrading\Debug\BotAutoTrading.csproj.CopyComplete
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\BotAutoTrading\Debug\BotAutoTrading.exe

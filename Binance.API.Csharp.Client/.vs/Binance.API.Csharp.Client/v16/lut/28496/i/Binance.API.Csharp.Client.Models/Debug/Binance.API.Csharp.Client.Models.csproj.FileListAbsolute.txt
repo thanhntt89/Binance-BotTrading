@@ -1,0 +1,4 @@
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\b\Binance.API.Csharp.Client\Binance.API.Csharp.Client.Models\bin\Debug\Binance.API.Csharp.Client.Models.dll
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\Binance.API.Csharp.Client.Models\Debug\Binance.API.Csharp.Client.Models.csproj.CoreCompileInputs.cache
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\Binance.API.Csharp.Client.Models\Debug\Binance.API.Csharp.Client.Models.csproj.CopyComplete
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\Binance.API.Csharp.Client.Models\Debug\Binance.API.Csharp.Client.Models.dll

@@ -1,0 +1,7 @@
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\b\Binance.API.Csharp.Client\Binance.API.Csharp.Client.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\b\Binance.API.Csharp.Client\Binance.API.Csharp.Client.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\b\Binance.API.Csharp.Client\Binance.API.Csharp.Client.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\Binance.API.Csharp.Client.Test\Debug\Binance.API.Csharp.Client.Test.csprojAssemblyReference.cache
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\Binance.API.Csharp.Client.Test\Debug\Binance.API.Csharp.Client.Test.csproj.CoreCompileInputs.cache
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\Binance.API.Csharp.Client.Test\Debug\Binance.API.Csharp.Client.Test.csproj.CopyComplete
+E:\Jimmii\Projects\AutoTrading\BotAutoTrading\Binance.API.Csharp.Client\.vs\Binance.API.Csharp.Client\v16\lut\0\i\Binance.API.Csharp.Client.Test\Debug\Binance.API.Csharp.Client.Test.dll
